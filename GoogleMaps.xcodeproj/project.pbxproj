@@ -125,6 +125,7 @@
 		39071698198FA3CE00A8045D = {
 			isa = PBXGroup;
 			children = (
+				390716FB198FBBDB00A8045D /* Walkthrough */,
 				390716AA198FA3CE00A8045D /* GoogleMaps */,
 				390716CC198FA3CF00A8045D /* GoogleMapsTests */,
 				390716A3198FA3CE00A8045D /* Frameworks */,
@@ -208,6 +209,13 @@
 				390716CF198FA3CF00A8045D /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		390716FB198FBBDB00A8045D /* Walkthrough */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Walkthrough;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -538,6 +546,7 @@
 				390716D8198FA3CF00A8045D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		390716D9198FA3CF00A8045D /* Build configuration list for PBXNativeTarget "GoogleMapsTests" */ = {
 			isa = XCConfigurationList;
@@ -546,6 +555,7 @@
 				390716DB198FA3CF00A8045D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
