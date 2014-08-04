@@ -7,7 +7,10 @@ The full Google Maps walkthrough can be found [here](https://developers.google.c
 
 # Usage
 
-You need to add your own Google Maps API Key to this project! This is done by:
+You need to add your own Google Maps API Key to this project! This is done changing this line in the **AppDelegate.m** to include your Google Maps iOS key.
+
+`NSString * GoogleMapsAPIKey = @"YOUR-KEY";`
+
 
 # Licence
 
