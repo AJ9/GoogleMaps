@@ -12,7 +12,7 @@ Google provides a simple [guide](https://developers.google.com/maps/documentatio
 1) Head over to this [link](https://code.google.com/apis/console/?noredirect). It will take you to the Google APIs Console.
 If you've not signed into a Google account for the browser, go ahead and sign in or sign up. 
 
-2- If you've used the Google APIs Console before you will be taken to your last project, it will look something like this.
+2) If you've used the Google APIs Console before you will be taken to your last project, it will look something like this.
 
 ![Previously used Google APIs Console](https://raw.githubusercontent.com/AJ9/GoogleMaps/master/Walkthrough/Previous%20Sign%20In.png)
 
@@ -22,18 +22,18 @@ If you've never used the Google APIs Console before you'll see a screen like thi
 
 Click *Create Project* to continue. This will create a default project called *API Project*. Not a particularly helpful name, so follow the steps below. 
 
-3- Create a new project by clicking the current project name (*API Project* for example) and under *Other Projects* choose *Create...* and include a suitable name. 
+3) Create a new project by clicking the current project name (*API Project* for example) and under *Other Projects* choose *Create...* and include a suitable name. 
 ![alt text](https://raw.githubusercontent.com/AJ9/GoogleMaps/master/Walkthrough/Create%20Project.png "Create Button")
 ![alt text](https://raw.githubusercontent.com/AJ9/GoogleMaps/master/Walkthrough/Suitable%20Name.png "Suitable Name")
-4- This should take you to the *Services* area, if not select this from the left panel and scroll to enable *Google Maps SDK for iOS*
+4) This should take you to the *Services* area, if not select this from the left panel and scroll to enable *Google Maps SDK for iOS*
 ![alt text](https://raw.githubusercontent.com/AJ9/GoogleMaps/master/Walkthrough/Choose%20Maps%20API.png "Choose Maps API")
-5- Once enabled choose *API Access* from the left panel
+5) Once enabled choose *API Access* from the left panel
 ![alt text](https://raw.githubusercontent.com/AJ9/GoogleMaps/master/Walkthrough/API%20Access.png "API Access")
-6- This will bring up a view to all the API keys for this particular project. Select *Create new iOS key..* 
+6) This will bring up a view to all the API keys for this particular project. Select *Create new iOS key..* 
 ![alt text](https://raw.githubusercontent.com/AJ9/GoogleMaps/master/Walkthrough/iOS%20Key.png "iOS Key")
-7- From here you can enter your bundle ID (*com.example.yourprojectname* for example) or leave it blank for any application. 
+7) From here you can enter your bundle ID (*com.example.yourprojectname* for example) or leave it blank for any application. 
 ![alt text](https://raw.githubusercontent.com/AJ9/GoogleMaps/master/Walkthrough/Bundle%20ID.png "Bundle ID")
-8- Copy your API key and you're done!
+8) Copy your API key and you're done!
 ![alt text](https://raw.githubusercontent.com/AJ9/GoogleMaps/master/Walkthrough/Key.png "API Key")
 
 
