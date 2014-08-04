@@ -11,6 +11,11 @@ You need to add your own Google Maps API Key to this project! This is done chang
 
 `NSString * GoogleMapsAPIKey = @"YOUR-KEY";`
 
+An example might look like: 
+
+
+`NSString * GoogleMapsAPIKey = @"BGzaSyAbfNKVd_EWpC-f2TjGBoCX17tc6PQm4-k";`
+
 
 # Licence
 
