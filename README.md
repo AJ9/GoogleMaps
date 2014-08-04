@@ -3,6 +3,10 @@
 
 A basic XCode project including a working google maps demo.
 
+# Usage
+
+You need to add your own Google Maps API Key to this project! This is done by:
+
 # Licence
 
 **Bottom Line - Use however you like**
