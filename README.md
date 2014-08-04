@@ -3,6 +3,8 @@
 
 A basic XCode project including a working google maps demo.
 
+The full Google Maps walkthrough can be found [here](https://developers.google.com/maps/documentation/ios/start), but for a quick start download this project and add your Google Maps API key see [Usage](https://github.com/AJ9/GoogleMaps#usage). 
+
 # Usage
 
 You need to add your own Google Maps API Key to this project! This is done by:
