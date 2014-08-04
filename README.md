@@ -5,6 +5,8 @@ A basic XCode project including a working google maps demo.
 
 # Licence
 
+**Bottom Line - Use however you like**
+
 The MIT License (MIT)
 
 Copyright (c) 2014 Adam Gask
