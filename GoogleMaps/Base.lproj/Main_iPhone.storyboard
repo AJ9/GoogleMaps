@@ -19,10 +19,10 @@
             </objects>
             <point key="canvasLocation" x="265" y="-168"/>
         </scene>
-        <!--View Controller-->
+        <!--Map View Controller-->
         <scene sceneID="AQh-Xh-rmo">
             <objects>
-                <viewController id="02k-Ur-bXS" sceneMemberID="viewController">
+                <viewController id="02k-Ur-bXS" customClass="MapViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="FvU-a2-eoU"/>
                         <viewControllerLayoutGuide type="bottom" id="Nqj-20-lER"/>
@@ -40,6 +40,9 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>
                     <navigationItem key="navigationItem" id="Yc9-IZ-BWA"/>
+                    <connections>
+                        <outlet property="mapView" destination="dMS-dA-49Z" id="cOC-97-tfp"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="aW2-Zu-B4X" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
