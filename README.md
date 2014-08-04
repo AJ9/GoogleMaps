@@ -13,9 +13,9 @@ Google provides a simple [guide](https://developers.google.com/maps/documentatio
 If you've not signed into a Google account for the browser, go ahead and sign in or sign up. 
 
 2. If you've used the Google APIs Console before you will be taken to your last project, it will look something like this.
-![alt text](https://raw.githubusercontent.com/AJ9/GoogleMaps/master/Walkthrough/Previous%20Sign%20In.png "Previously used Google APIs Console")
+![Previously used Google APIs Console](https://raw.githubusercontent.com/AJ9/GoogleMaps/master/Walkthrough/Previous%20Sign%20In.png)
 If you've never used the Google APIs Console before you'll see a screen like this. 
-![alt text](https://raw.githubusercontent.com/AJ9/GoogleMaps/master/Walkthrough/First%20Time.png "First Time")
+![First time using Google APIs Console](https://raw.githubusercontent.com/AJ9/GoogleMaps/master/Walkthrough/First%20Time.png)
 Click *Create Project* to continue. This will create a default project called *API Project*. Not a particularly helpful name, so follow the steps below. 
 3. Create a new project by clicking the current project name (*API Project* for example) and under *Other Projects* choose *Create...* and include a suitable name. 
 ![alt text](https://raw.githubusercontent.com/AJ9/GoogleMaps/master/Walkthrough/Create%20Project.png "Create Button")
