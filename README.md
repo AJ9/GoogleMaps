@@ -3,7 +3,22 @@
 
 A basic XCode project including a working google maps demo.
 
-The full Google Maps walkthrough can be found [here](https://developers.google.com/maps/documentation/ios/start), but for a quick start download this project and add your Google Maps API key see [Usage](https://github.com/AJ9/GoogleMaps#usage). 
+The full Google Maps walkthrough can be found [here](https://developers.google.com/maps/documentation/ios/start), but for a quick start download this project and add your Google Maps API key ([How to get an API Key](https://github.com/AJ9/GoogleMaps#how-to-get-a-google-maps-api-key).
+
+
+
+# Usage
+
+You need to add your own Google Maps API Key to this project! This is done changing this line in the **AppDelegate.m** to include your Google Maps iOS key.
+
+`NSString * GoogleMapsAPIKey = @"YOUR-KEY";`
+
+An example might look like: 
+
+
+`NSString * GoogleMapsAPIKey = @"BGzaSyAbfNKVd_EWpC-f2TjGBoCX17tc6PQm4-k";`
+
+
 
 # How to get a Google Maps API Key
 
@@ -47,19 +62,6 @@ Click *Create Project* to continue. This will create a default project called *A
 8) Copy your API key and you're done!
 
 ![alt text](https://raw.githubusercontent.com/AJ9/GoogleMaps/master/Walkthrough/Key.png "API Key")
-
-
-
-# Usage
-
-You need to add your own Google Maps API Key to this project! This is done changing this line in the **AppDelegate.m** to include your Google Maps iOS key.
-
-`NSString * GoogleMapsAPIKey = @"YOUR-KEY";`
-
-An example might look like: 
-
-
-`NSString * GoogleMapsAPIKey = @"BGzaSyAbfNKVd_EWpC-f2TjGBoCX17tc6PQm4-k";`
 
 
 # Licence
